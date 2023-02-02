@@ -1,3 +1,6 @@
+#LINK  CONSEGNA  ESAME 
+#  https://docs.google.com/document/d/e/2PACX-1vQlmC1U5UROiUoXDz2Oerb_3b64RM4qwLEBeR4Wp3KlFw8U4IHRJB1rMczm_brkeJU5CVMmH0uC_TC0/pub
+
 from pathlib import Path           #importo la CLASSE PATH
 
 ###################################################################
